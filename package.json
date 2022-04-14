@@ -1,0 +1,8 @@
+{
+  "name": "erc721m",
+  "version": "0.0.1",
+  "description": "A smart contract base on ERC721",
+  "scripts": {},
+  "author": "our-metaverse@protonmail.com",
+  "license": "ISC"
+}
