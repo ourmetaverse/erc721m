@@ -9,6 +9,8 @@ Still in the draft, [submit issue](https://github.com/ourmetaverse/erc721m/issue
 ## API
 
 ```solidity
+pragma solidity ^0.8.0;
+
 interface IERC721M {
   function grant(uint256 tokenId, string calldata grantTarget) external payable;
 
