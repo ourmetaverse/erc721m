@@ -4,6 +4,20 @@ Created by https://our-metaverse.xyz/
 
 Still in the draft, [submit issue](https://github.com/ourmetaverse/erc721m/issues) for proposal.
 
+## API
+
+```solidity
+interface IERC721M {
+  function grant(uint256 tokenId, string calldata grantTarget) external payable;
+
+  function getGrantsWithToken(uint256 tokenId)
+    external
+    view
+    returns (string[] memory);
+}
+
+```
+
 ## Develop
 
 ### Quick Start
