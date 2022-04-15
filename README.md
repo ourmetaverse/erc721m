@@ -1,5 +1,7 @@
 # ERC721M
 
+[![npmversion](http://img.shields.io/npm/v/erc721m.svg?style=flat-square)](https://www.npmjs.com/package/erc721m)
+
 Created by https://our-metaverse.xyz/
 
 Still in the draft, [submit issue](https://github.com/ourmetaverse/erc721m/issues) for proposal.
