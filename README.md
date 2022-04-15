@@ -1,5 +1,27 @@
 # ERC721M
 
-Created by http://our-metaverse.xyz/
+Created by https://our-metaverse.xyz/
 
-Not ready yet.
+Still in the draft, [submit issue](https://github.com/ourmetaverse/erc721m/issues) for proposal.
+
+## Develop
+
+### Quick Start
+
+```shell
+npm i
+npm run compile
+npm run test
+```
+
+### More
+
+```shell
+npx hardhat accounts
+npx hardhat compile
+npx hardhat clean
+npx hardhat test
+npx hardhat node
+node scripts/sample-script.js
+npx hardhat help
+```
